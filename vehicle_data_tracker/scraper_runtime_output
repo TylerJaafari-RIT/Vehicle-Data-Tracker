@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "C:/Users/Tyler/Desktop/Work Stuff/FiWize/vehicle_data_tracker/vehicle_data_tracker/scraper_app.py", line 30, in <module>
+    import cookiejar
+ModuleNotFoundError: No module named 'cookiejar'
